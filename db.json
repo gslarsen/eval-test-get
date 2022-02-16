@@ -15,5 +15,8 @@
       "material": 2718
     }
   ],
-  "message": "random"
+  "message": {
+    "good": "success",
+    "bad": "fail"
+  } 
 }
