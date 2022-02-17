@@ -3,16 +3,24 @@
     {
       "activityId": "102806.TEST.TEST123",
       "activity": "test activity desc",
-      "hours": 0,
+      "hours": 100,
       "LABOR": 2222,
-      "MATERIAL": 1111
+      "MATERIAL": 1111,
+      "LABOR BUR": 100,
+      "OVERHEAD": 90,
+      "EXPENSE": 80,
+      "totalCost": 3603
     },
     {
       "activityId": "102806.TEST.TEST2",
       "activity": "test activity desc2",
-      "hours": 1,
+      "hours": 150,
       "LABOR": 3141,
-      "MATERIAL": 2718
+      "MATERIAL": 2718,
+      "LABOR BUR": 100,
+      "OVERHEAD": 90,
+      "EXPENSE": 80,
+      "totalCost": 6129
     }
   ],
   "message": {
