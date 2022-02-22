@@ -1,7 +1,7 @@
 {
   "activities":[
     {
-      "activityId": "102806.TEST.TEST123",
+      "activityId": "102806.COSTS.100C",
       "activity": "test activity desc",
       "hours": 100,
       "LABOR": 2222,
@@ -12,7 +12,7 @@
       "totalCost": 3603
     },
     {
-      "activityId": "102806.TEST.TEST2",
+      "activityId": "102806.400.431.1C",
       "activity": "test activity desc2",
       "hours": 150,
       "LABOR": 3141,
